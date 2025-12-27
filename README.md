@@ -1,8 +1,8 @@
-# Hybrid Wind Power Forecasting (Wavelet Transform & ML) 🌬️🧠
+# Hybrid Wind Power Forecasting (Wavelet Transform & ML) 
 
 This repository contains my **Graduation Project**, which focuses on high-precision wind power forecasting by combining **Signal Processing (Wavelet Transform)** with **Machine Learning** models. 
 
-## 🚀 Project Overview
+##  Project Overview
 Wind speed data is inherently "noisy" and non-stationary. This project implements a **Hybrid Approach**:
 1. **Wavelet Decomposition:** Using Discrete Wavelet Transform (DWT) to decompose the wind signals into sub-bands and remove noise.
 2. **Predictive Modeling:** Applying various ML algorithms on the "denoised" data to predict future energy output.
