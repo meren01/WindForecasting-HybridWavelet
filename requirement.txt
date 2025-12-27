@@ -1,0 +1,16 @@
+# Veri İşleme ve Analiz
+pandas
+numpy
+
+# Grafik ve Görselleştirme
+matplotlib
+seaborn
+
+# Sinyal İşleme (Dalgacık Dönüşümü için Kritik)
+PyWavelets
+
+# Makine Öğrenmesi (RF ve DT için)
+scikit-learn
+
+# Yapay Sinir Ağları (ANN için)
+tensorflow
