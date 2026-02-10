@@ -1,6 +1,6 @@
 # Hybrid Wind Power Forecasting (Wavelet Transform & ML) 
 
-This repository contains my **Graduation Project**, which focuses on high-precision wind power forecasting by combining **Signal Processing (Wavelet Transform)** with **Machine Learning** models. 
+This repository contains my **Graduation Project-1**, which focuses on high-precision wind power forecasting by combining **Signal Processing (Wavelet Transform)** with **Machine Learning** models. 
 
 ##  Project Overview
 Wind speed data is inherently "noisy" and non-stationary. This project implements a **Hybrid Approach**:
